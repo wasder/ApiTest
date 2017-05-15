@@ -1,0 +1,10 @@
+E:\Dropbox\Projects\ApiTest\ApiTest\obj\Debug\ApiTest.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\ApiTest.dll
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\ApiTest.pdb
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\RestSharp.dll
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Projects\ApiTest\ApiTest\bin\Debug\RestSharp.xml
+E:\Dropbox\Projects\ApiTest\ApiTest\obj\Debug\ApiTest.dll
+E:\Dropbox\Projects\ApiTest\ApiTest\obj\Debug\ApiTest.pdb
